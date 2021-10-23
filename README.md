@@ -5,7 +5,7 @@
 - 📫 How to reach me: kiranpdas123@gmail.com
 
 ---
-[![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranpdas)](https://github.com/kiranpdas/github-readme-stats)
+[![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranpdas)]
 
 # Blog posts
 <!-- STACKOVERFLOW:START -->
