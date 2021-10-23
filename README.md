@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Big Data Projects
 - 📫 How to reach me: kiranpdas123@gmail.com
 
+---
+[![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kprasannadas)](https://github.com/kprasannadas/github-readme-stats)
 
 # Blog posts
 <!-- STACKOVERFLOW:START -->
